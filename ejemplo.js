@@ -1,4 +1,3 @@
-console.log("main conectado");
 const container = document.getElementById('result');
 
 renderInfo = (data) => {
